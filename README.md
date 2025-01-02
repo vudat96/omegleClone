@@ -1,4 +1,4 @@
-# OmegleMeet - Open Source Random Video Chat App
+# OmegleClone - Open Source Random Video Chat App
 
 OmegleMeet is a real-time video chat app inspired by Omegle. It allows users to connect with strangers for live video calls and text chats.
 

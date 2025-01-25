@@ -3,7 +3,7 @@
 OmegleMeet is a real-time video chat app inspired by Omegle. It allows users to connect with strangers for live video calls and text chats.
 
 🔴 **[Live Demo (currently broke)](http://omeglemeet.devrohit.tech/)** - Or checkout demo video below
-[![OmegleMeet Demo](https://img.youtube.com/vi/yT51aTgpe8w/0.jpg)](https://www.youtube.com/watch?v=yT51aTgpe8w)
+[![OmegleMeet Demo](https://img.youtube.com/vi/YTGfyUdhu/0.jpg)](https://www.youtube.com/watch?v=YTGfyUdhu)
 
 ## Features
 - Random stranger matching
